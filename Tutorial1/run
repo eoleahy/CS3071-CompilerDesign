@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+cc lex.yy.c -lfl
+./a.out
